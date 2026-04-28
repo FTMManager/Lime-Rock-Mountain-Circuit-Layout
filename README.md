@@ -19,3 +19,7 @@ The track was listed on the National Register of Historic Places in 2009. In the
 --------------------ALTERNATE HISTORY/LAYOUT--------------------
 
 The mod I've created has been ported from the original rFactor and explores a proposed original layout for Lime Rock Park, that expands the short "bull ring" into the surrounding mountain and hillsides. Turning the 1.57 mile track into a flowy ~2.92 mile circuit, that goes past the original "Big Bend" turn 1 and up into a mountain, rejoining the original track between turns 2 and 3 on the classic course. The top speeds of the course are much higher due to this extension after turn 1 and turns this already high speed track into a true staple of North American racing. With the real-life loss of IMSA at the course and constant pressure from neighbors to limit racing due to noise, this mod brings a new potential to this classic racetrack and an idea of what could have been. 
+
+
+--------------------ABOUT--------------------
+This mod is being created by a college student for an open-source development Software Engineering class. 
