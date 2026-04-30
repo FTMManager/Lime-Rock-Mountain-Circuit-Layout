@@ -1,0 +1,16 @@
+{
+  "name": "Lime Rock Mountain Circuit",
+  "description": null,
+  "tags": [
+    "circuit"
+  ],
+  "country": "USA",
+  "city": "Lakeville",
+  "length": "4700m",
+  "width": "2500m",
+  "run": "clockwise",
+  "pitboxes": "5",
+  "author": null,
+  "version": null,
+  "url": null
+}
