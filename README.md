@@ -24,3 +24,7 @@ The mod I've created has been ported from the original rFactor and explores a pr
 --------------------ABOUT--------------------
 
 This mod is being created by a college student for an open-source development Software Engineering class. 
+
+--------------------HOW TO RUN--------------------
+
+Download the ZIP file from the repo, extract and drag it into your content/tracks folder in assetto corsa, then run the game.
